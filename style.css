@@ -20,8 +20,8 @@ h3 {
 
 /*This section is for the font alignment */
 
-header > div > h1,
-header > div > nav {
+body > header > div > h1,
+body > header > div > nav {
   text-align: center;
 margin: 0;
 padding: 10px
