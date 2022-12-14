@@ -22,7 +22,8 @@ h3 {
 header > div > h1,
 header > div > nav, 
 main > section > h2,
-main > h3 {
+main > h3,
+article > div > p {
   text-align: center;
 margin: 0;
 padding: 10px
@@ -39,12 +40,6 @@ footer > p {
   text-align: center;
 }
 
-article > div > p {
-  text-align: center;
-  margin: 0;
-  padding: 10px
-}
-
 article {
   padding: 20px 0;
 }
@@ -55,9 +50,6 @@ article div {
 }
 
 p {
-  text-align: center;
-  margin: 0;
-  padding: 10px;
   line-height: 1.5;
 }
 
