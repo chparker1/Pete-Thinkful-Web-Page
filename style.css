@@ -41,7 +41,7 @@ footer > p {
 
 article > div > p {
   text-align: center;
-  margin: 0
+  margin: 0;
   padding: 10px
 }
 
@@ -55,6 +55,9 @@ article div {
 }
 
 p {
+  text-align: center;
+  margin: 0;
+  padding: 10px;
   line-height: 1.5;
 }
 
