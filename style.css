@@ -24,7 +24,7 @@ header > div > nav,
 main > section > h2,
 main > h3,
 article > div > p,
-main > p > ul > li {
+main > p > ul {
   text-align: center;
 margin: 0;
 padding: 10px
@@ -38,7 +38,7 @@ h2 {
 }
 
 footer > p,
-footer > p > ol > li {
+footer > p > ol {
   text-align: center;
 }
 
