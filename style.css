@@ -23,12 +23,13 @@ header > div > h1,
 header > div > nav, 
 main > section > h2,
 main > h3,
-article > div > p;
-p > ul {
+article > div > p {
   text-align: center;
 margin: 0;
 padding: 10px
 }
+
+
 
 /*Footer alignment*/
 h2 {
