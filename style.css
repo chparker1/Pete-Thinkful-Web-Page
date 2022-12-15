@@ -23,7 +23,8 @@ header > div > h1,
 header > div > nav, 
 main > section > h2,
 main > h3,
-article > div > p {
+article > div > p,
+p > ul > li {
   text-align: center;
 margin: 0;
 padding: 10px
