@@ -40,12 +40,6 @@ footer > p {
   text-align: center;
 }
 
-footer > p > ol {
-  text-align: center;
-  margin: 0;
-  padding: 10px
-}
-
 article {
   padding: 20px 0;
 }
