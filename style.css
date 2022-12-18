@@ -22,14 +22,11 @@ h3 {
 header > div > h1,
 header > div > nav, 
 main > section > h2,
-main > h3,
-article > div > p {
+main > h3 {
   text-align: center;
 margin: 0;
 padding: 10px
 }
-
-
 
 /*Footer alignment*/
 h2 {
@@ -42,17 +39,30 @@ footer > p {
   text-align: center;
 }
 
+article > div > p {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px
+}
+
+ul {
+  text-align: left-center;
+  margin: auto;
+}
+
 article {
   padding: 20px 0;
 }
 
 article div {
   text-align: center;
-  width: 100%;
+  width: 100%
 }
 
 p {
-  line-height: 1.5;
+  text-align: left-center;
+  line-height: 1.5
 }
 
 /*This section contains the anchor tag link styles*/
@@ -81,4 +91,5 @@ hr {
 img {
   border: 2px solid #003049
 } 
+  
   
